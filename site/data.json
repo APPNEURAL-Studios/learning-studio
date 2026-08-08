@@ -1,0 +1,127 @@
+{
+  "slug": "learning-studio",
+  "host": "learning",
+  "title": "Learning Studio",
+  "tagline": "Courses, quizzes and assessments",
+  "description": "Author courses, lessons, and learning paths with quizzes, exams, and coding assessments. Build flashcards, question banks, scorecards, interview kits, SCORM/xAPI packages, and scenario-based simulations for training programs.",
+  "editors": [
+    {
+      "category": "Forms, Learning & Assessment Editors",
+      "name": "Form Editor",
+      "desc": "General-purpose form builder"
+    },
+    {
+      "category": "Forms, Learning & Assessment Editors",
+      "name": "Survey Editor",
+      "desc": "Survey/questionnaire design"
+    },
+    {
+      "category": "Forms, Learning & Assessment Editors",
+      "name": "Quiz Editor",
+      "desc": "Interactive quiz creation"
+    },
+    {
+      "category": "Forms, Learning & Assessment Editors",
+      "name": "Exam Editor",
+      "desc": "Formal exam authoring"
+    },
+    {
+      "category": "Forms, Learning & Assessment Editors",
+      "name": "MCQ Editor",
+      "desc": "Multiple-choice question builder"
+    },
+    {
+      "category": "Forms, Learning & Assessment Editors",
+      "name": "Coding Assessment Editor",
+      "desc": "Code challenge and evaluation"
+    },
+    {
+      "category": "Forms, Learning & Assessment Editors",
+      "name": "Interview Editor",
+      "desc": "Structured interview question sets"
+    },
+    {
+      "category": "Forms, Learning & Assessment Editors",
+      "name": "Scorecard Editor",
+      "desc": "Evaluation rubric and scoring"
+    },
+    {
+      "category": "Forms, Learning & Assessment Editors",
+      "name": "Course Editor",
+      "desc": "Course structure and content"
+    },
+    {
+      "category": "Forms, Learning & Assessment Editors",
+      "name": "Lesson Editor",
+      "desc": "Individual lesson authoring"
+    },
+    {
+      "category": "Forms, Learning & Assessment Editors",
+      "name": "Learning Path Editor",
+      "desc": "Sequential learning journeys"
+    },
+    {
+      "category": "Forms, Learning & Assessment Editors",
+      "name": "Flashcard Editor",
+      "desc": "Spaced-repetition flashcards"
+    },
+    {
+      "category": "Forms, Learning & Assessment Editors",
+      "name": "Simulation Editor",
+      "desc": "Scenario-based learning sims"
+    },
+    {
+      "category": "Forms, Learning & Assessment Editors",
+      "name": "Certificate Rule Editor",
+      "desc": "Completion certificate logic"
+    },
+    {
+      "category": "Forms, Learning & Assessment Editors",
+      "name": "Question Bank Editor",
+      "desc": "Centralized question repository"
+    },
+    {
+      "category": "Forms, Learning & Assessment Editors",
+      "name": "SCORM Content Editor",
+      "desc": "SCORM/xAPI package authoring"
+    }
+  ],
+  "services": [
+    [
+      "learning",
+      "core"
+    ],
+    [
+      "knowledge",
+      "core"
+    ],
+    [
+      "publishing",
+      "core"
+    ],
+    [
+      "media",
+      "new"
+    ],
+    [
+      "scheduling",
+      "new"
+    ],
+    [
+      "entitlement",
+      "core"
+    ],
+    [
+      "review",
+      "new"
+    ],
+    [
+      "asset",
+      "gap"
+    ],
+    [
+      "localization",
+      "gap"
+    ]
+  ]
+}
